@@ -58,7 +58,7 @@ A Flask-based UI for real-time observability:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/GameOn223/Heal-Ops.git
 cd autonomous-system
 ```
 
